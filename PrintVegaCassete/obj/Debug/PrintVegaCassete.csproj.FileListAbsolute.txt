@@ -1,0 +1,24 @@
+c:\users\orsh\documents\visual studio 2012\Projects\PrintVegaCassete\PrintVegaCassete\bin\Debug\PrintVegaCassete.dll.config
+c:\users\orsh\documents\visual studio 2012\Projects\PrintVegaCassete\PrintVegaCassete\bin\Debug\PrintVegaCassete.dll
+c:\users\orsh\documents\visual studio 2012\Projects\PrintVegaCassete\PrintVegaCassete\bin\Debug\PrintVegaCassete.pdb
+c:\users\orsh\documents\visual studio 2012\Projects\PrintVegaCassete\PrintVegaCassete\bin\Debug\PrintVegaCassete.tlb
+c:\users\orsh\documents\visual studio 2012\Projects\PrintVegaCassete\PrintVegaCassete\bin\Debug\EntityFramework.dll
+c:\users\orsh\documents\visual studio 2012\Projects\PrintVegaCassete\PrintVegaCassete\bin\Debug\LSExtensionExplorer.dll
+c:\users\orsh\documents\visual studio 2012\Projects\PrintVegaCassete\PrintVegaCassete\bin\Debug\Patholab_Common.dll
+c:\users\orsh\documents\visual studio 2012\Projects\PrintVegaCassete\PrintVegaCassete\bin\Debug\Patholab_DAL_V1.dll
+c:\users\orsh\documents\visual studio 2012\Projects\PrintVegaCassete\PrintVegaCassete\bin\Debug\Oracle.ManagedDataAccess.dll
+c:\users\orsh\documents\visual studio 2012\Projects\PrintVegaCassete\PrintVegaCassete\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+c:\users\orsh\documents\visual studio 2012\Projects\PrintVegaCassete\PrintVegaCassete\bin\Debug\CrystalDecisions.Shared.dll
+c:\users\orsh\documents\visual studio 2012\Projects\PrintVegaCassete\PrintVegaCassete\bin\Debug\EntityFramework.xml
+c:\users\orsh\documents\visual studio 2012\Projects\PrintVegaCassete\PrintVegaCassete\bin\Debug\Patholab_Common.pdb
+c:\users\orsh\documents\visual studio 2012\Projects\PrintVegaCassete\PrintVegaCassete\bin\Debug\Patholab_DAL_V1.pdb
+c:\users\orsh\documents\visual studio 2012\Projects\PrintVegaCassete\PrintVegaCassete\obj\Debug\PrintVegaCassete.csprojResolveAssemblyReference.cache
+c:\users\orsh\documents\visual studio 2012\Projects\PrintVegaCassete\PrintVegaCassete\obj\Debug\PrintVegaCassete.dll
+c:\users\orsh\documents\visual studio 2012\Projects\PrintVegaCassete\PrintVegaCassete\obj\Debug\PrintVegaCassete.pdb
+C:\work\PatolabProj\DLLS\PrintVegaCassete.dll.config
+C:\work\PatolabProj\DLLS\PrintVegaCassete.dll
+C:\work\PatolabProj\DLLS\PrintVegaCassete.pdb
+C:\work\PatolabProj\DLLS\PrintVegaCassete.tlb
+C:\work\PatolabProj\PrintVegaCassete\PrintVegaCassete\obj\Debug\PrintVegaCassete.csprojResolveAssemblyReference.cache
+C:\work\PatolabProj\PrintVegaCassete\PrintVegaCassete\obj\Debug\PrintVegaCassete.dll
+C:\work\PatolabProj\PrintVegaCassete\PrintVegaCassete\obj\Debug\PrintVegaCassete.pdb
